@@ -1,2 +1,8 @@
-# Digital-Speech-Processing
-Notes for the course Introduction to Digital Speech Processing by Lin-shan Lee
+# Introduction to Digital Speech Processing
+
+## Description
+
+This repository contains my notes for the online course *Introduction to Digital Speech Processing* by  Prof. [Lin-shan Lee](https://linshanlee.com/). 
+
+Course website: https://speech.ee.ntu.edu.tw/DSP2021Autumn/
+
