@@ -14,7 +14,7 @@ Course website: https://speech.ee.ntu.edu.tw/DSP2021Autumn/
 
 - [x] Lesson 2: Fundamentals of Speech Recognition
 
-- [ ] Lesson 3: Map of Subject Areas
+- [x] Lesson 3: Map of Subject Areas
 
 - [ ] Lesson 4: More about Hidden Markov Models
 
