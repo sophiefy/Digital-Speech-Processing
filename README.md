@@ -16,7 +16,7 @@ Course website: https://speech.ee.ntu.edu.tw/DSP2021Autumn/
 
 - [x] Lesson 3: Map of Subject Areas
 
-- [ ] Lesson 4: More about Hidden Markov Models
+- [x] Lesson 4: More about Hidden Markov Models
 
 - [ ] Lesson 5: Acoustic Modeling
 
