@@ -20,7 +20,7 @@ Course website: https://speech.ee.ntu.edu.tw/DSP2021Autumn/
 
 - [x] Lesson 4: More about Hidden Markov Models
 
-- [ ] Lesson 5: Acoustic Modeling
+- [x] Lesson 5: Acoustic Modeling
 
 - [ ] Lesson 6: Language Modeling
 
