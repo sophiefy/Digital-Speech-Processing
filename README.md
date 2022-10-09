@@ -4,7 +4,7 @@
 
 This repository contains my notes and materials for the online course *Introduction to Digital Speech Processing* by  Prof. [Lin-shan Lee](https://linshanlee.com/). 
 
-Notes are also published at [Zhihu](https://www.zhihu.com/column/c_1531961189252354048).
+Notes are also published at [Zhihu](https://www.zhihu.com/column/c_1531961189252354048) and [my website](https://francis-komizu.github.io/digital-signal-processing.html).
 
 Course website: https://speech.ee.ntu.edu.tw/DSP2021Autumn/
 
