@@ -22,7 +22,7 @@ Course website: https://speech.ee.ntu.edu.tw/DSP2021Autumn/
 
 - [x] Lesson 5: Acoustic Modeling
 
-- [ ] Lesson 6: Language Modeling
+- [x] Lesson 6: Language Modeling
 
 - [ ] Lesson 7: Speech Signals and Front-end Processing
 
