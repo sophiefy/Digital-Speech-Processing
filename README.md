@@ -24,7 +24,7 @@ Course website: https://speech.ee.ntu.edu.tw/DSP2021Autumn/
 
 - [x] Lesson 6: Language Modeling
 
-- [] Lesson 7: Speech Signals and Front-end Processing
+- [x] Lesson 7: Speech Signals and Front-end Processing
 
 - [ ] Lesson 8: Search Algorithms for Speech Recognition
 
